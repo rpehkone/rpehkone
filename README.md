@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![](https://img.shields.io/badge/-Lua-black?style=fflat-square&logo=lua)
 ![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![](https://img.shields.io/badge/-Arduino_IDE-black?style=flat-square&logo=arduino)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 
