@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 
