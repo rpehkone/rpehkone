@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
