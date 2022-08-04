@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 
