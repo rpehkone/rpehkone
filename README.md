@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
