@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 
 ![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -30,12 +31,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
 ![](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
-![](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
