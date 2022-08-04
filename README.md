@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
