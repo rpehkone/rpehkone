@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logo)
+![](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ![](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![](https://img.shields.io/badge/-CSS4-black?style=flat-square&logo=css4)
+![](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
